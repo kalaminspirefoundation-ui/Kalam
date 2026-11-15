@@ -1,0 +1,6 @@
+{
+  "name": "Kalam Inspire Foundation",
+  "description": "Inspiring People. Transforming Communities. Building the Nation. Official website for Kalam Inspire Foundation and flagship initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
